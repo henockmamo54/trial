@@ -14,9 +14,7 @@ namespace trial555
         [STAThread]
         static void Main()
         {
-            // master branch for test
-            // and mine change local //
-            // master branch for test //
+            // new feature //
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
