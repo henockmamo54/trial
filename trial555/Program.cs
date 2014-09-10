@@ -15,6 +15,7 @@ namespace trial555
         static void Main()
         {
             // master branch for test
+            // and mine change local //
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
